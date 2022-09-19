@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imnaresh96
+- 👋 Hi, I’m Naresh kumar 
 
 # Python Practice
 ## Core Python
