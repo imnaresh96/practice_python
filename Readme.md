@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naresh kumar 
+- 👋 Hi, I’m Naresh kumar
 
 # Python Practice
 ## Core Python
@@ -7,3 +7,4 @@
 ### Operators
 ### Conditional statements
 ###  Loops & Control Statement
+### Functions
