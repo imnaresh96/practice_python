@@ -1,0 +1,3 @@
+hello this is use for practice
+ new line addded
+ practice gone rightfile handling is correcthello hello
