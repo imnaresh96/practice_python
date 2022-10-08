@@ -1,0 +1,3 @@
+this file empty when we open in w write  mode
+ new line added
+ new line added
