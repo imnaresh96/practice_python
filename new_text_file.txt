@@ -1,0 +1,2 @@
+hello viewer this is simple text file
+ hello \n this is new
