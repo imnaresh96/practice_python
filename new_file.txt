@@ -1,0 +1,3 @@
+hello this is demo 
+for create & write data in file
+ there are some new process for appending data
