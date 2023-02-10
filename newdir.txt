@@ -1,0 +1,3 @@
+Hello This is demo for how to write data in file help with file object command\n new data added \n from user side
+ This is'
+' use for new newline
