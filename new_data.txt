@@ -1,0 +1,2 @@
+hello this is demo for file Handling/n This is demo for new line
+ This is demo for new line
